@@ -16,7 +16,7 @@ const HeroBanner = () => (
       fontWeight={700}
       sx={{ fontSize: { lg: "44px", xs: "40px" } }}
       mb="23px"
-      mt="30px"
+      // mt="30px"
     >
       Sweat, Smile <br />
       And Repeat
