@@ -9,7 +9,7 @@ const Footer = () => (
       sx={{ alignItems: "center" }}
       flexWrap="wrap"
       px="40px"
-      // pt="24px"
+      pt="24px"
     >
       <img src={Logo} alt="logo" style={{ width: "400px", height: "400px" }} />
     </Stack>
