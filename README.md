@@ -3,6 +3,6 @@ React Fitness Application to search exercises according to body part and exercis
 Main Highlights:
 Material UI,
 React File Structure,
-RestAPI
+RapidAPI
 
 Thank you!
